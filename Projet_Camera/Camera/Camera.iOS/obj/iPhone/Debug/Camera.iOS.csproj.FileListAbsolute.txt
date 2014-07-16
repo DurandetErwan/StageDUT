@@ -1,0 +1,7 @@
+E:\Stage_India_Rose\fichier_a_tester\mobile-sample-master\mobile-samples-master\Camera\Camera.iOS\bin\iPhone\Debug\CameraiOS.exe
+E:\Stage_India_Rose\fichier_a_tester\mobile-sample-master\mobile-samples-master\Camera\Camera.iOS\bin\iPhone\Debug\CameraiOS.pdb
+E:\Stage_India_Rose\fichier_a_tester\mobile-sample-master\mobile-samples-master\Camera\Camera.iOS\bin\iPhone\Debug\Xamarin.Mobile.dll
+E:\Stage_India_Rose\fichier_a_tester\mobile-sample-master\mobile-samples-master\Camera\Camera.iOS\bin\iPhone\Debug\Xamarin.Mobile.xml
+E:\Stage_India_Rose\fichier_a_tester\mobile-sample-master\mobile-samples-master\Camera\Camera.iOS\obj\iPhone\Debug\Camera.iOS.csprojResolveAssemblyReference.cache
+E:\Stage_India_Rose\fichier_a_tester\mobile-sample-master\mobile-samples-master\Camera\Camera.iOS\obj\iPhone\Debug\CameraiOS.exe
+E:\Stage_India_Rose\fichier_a_tester\mobile-sample-master\mobile-samples-master\Camera\Camera.iOS\obj\iPhone\Debug\CameraiOS.pdb

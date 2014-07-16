@@ -1,0 +1,2 @@
+E:\Stage_India_Rose\fichier_a_tester\mobile-sample-master\mobile-samples-master\Camera\Camera.Droid\bin\Debug\Camera.Droid.dll
+E:\Stage_India_Rose\fichier_a_tester\mobile-sample-master\mobile-samples-master\Camera\Components\xamarin.mobile-0.6.3\lib\android\Xamarin.Mobile.dll

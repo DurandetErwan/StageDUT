@@ -1,0 +1,2 @@
+E:\Stage_India_Rose\fichier_a_tester\mobile-sample-master\mobile-samples-master\Camera\Components\xamarin.mobile-0.6.3\samples\Xamarin.Mobile.Android.Samples\ContactsSample\bin\Debug\ContactsSample.dll
+E:\Stage_India_Rose\fichier_a_tester\mobile-sample-master\mobile-samples-master\Camera\Components\xamarin.mobile-0.6.3\lib\android\Xamarin.Mobile.dll

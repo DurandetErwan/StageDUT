@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.015d24bc5c1bfc11" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LowLevelPlayAudio.cs">
+    <Files>
+      <File FileName="RecordAudio.cs" Line="1" Column="1" />
+      <File FileName="PlayAudio.cs" Line="1" Column="1" />
+      <File FileName="NotificationManager.cs" Line="1" Column="1" />
+      <File FileName="LowLevelRecordAudio.cs" Line="1" Column="1" />
+      <File FileName="LowLevelPlayAudio.cs" Line="23" Column="58" />
+      <File FileName="INotificationReceiver.cs" Line="1" Column="1" />
+      <File FileName="Activity1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Example_WorkingWithAudio" expanded="True">
+            <Node name="LowLevelPlayAudio.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Example__WorkingWithAudio MonoForAntroid.PreferredDevice="Galaxy Nexus" />
+</Properties>

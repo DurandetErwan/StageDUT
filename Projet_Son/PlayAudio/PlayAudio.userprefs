@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.015d24bc5c1bfc11" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PlayAudio\Properties\AndroidManifest.xml">
+    <Files>
+      <File FileName="PlayAudio\Activity1.cs" Line="23" Column="13" />
+      <File FileName="PlayAudio\Properties\AndroidManifest.xml" Line="4" Column="70" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PlayAudio MonoForAntroid.PreferredDevice="Galaxy Nexus" />
+</Properties>

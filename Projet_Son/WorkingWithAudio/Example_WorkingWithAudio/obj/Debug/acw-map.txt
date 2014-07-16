@@ -1,0 +1,2 @@
+WorkingWithAudio.WorkingWithAudioActivity;workingwithaudio.WorkingWithAudioActivity
+WorkingWithAudio.NotificationManager.FocusChangeListener;workingwithaudio.NotificationManager_FocusChangeListener

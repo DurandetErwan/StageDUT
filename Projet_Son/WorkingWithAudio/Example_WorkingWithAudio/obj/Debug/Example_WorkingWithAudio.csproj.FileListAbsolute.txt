@@ -1,0 +1,68 @@
+E:\Stage_India_Rose\fichier_à tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\bin\Debug\Example_WorkingWithAudio.dll
+E:\Stage_India_Rose\fichier_à tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\bin\Debug\Example_WorkingWithAudio.pdb
+E:\Stage_India_Rose\fichier_à tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\bin\Debug\Example_WorkingWithAudio.dll.mdb
+E:\Stage_India_Rose\fichier_à tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\bin\Debug\Example_WorkingWithAudio.Example_WorkingWithAudio.apk
+E:\Stage_India_Rose\fichier_à tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\bin\Debug\Example_WorkingWithAudio.Example_WorkingWithAudio-Signed.apk
+E:\Stage_India_Rose\fichier_à tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\Example_WorkingWithAudio.dll
+E:\Stage_India_Rose\fichier_à tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\Example_WorkingWithAudio.pdb
+E:\Stage_India_Rose\fichier_à tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\android\bin\Example_WorkingWithAudio.Example_WorkingWithAudio.apk
+E:\Stage_India_Rose\fichier_à tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\res\layout\main.xml
+E:\Stage_India_Rose\fichier_à tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\res\drawable-hdpi\icon.png
+E:\Stage_India_Rose\fichier_à tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\res\drawable-ldpi\icon.png
+E:\Stage_India_Rose\fichier_à tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\res\drawable-mdpi\icon.png
+E:\Stage_India_Rose\fichier_à tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\res\drawable-xhdpi\icon.png
+E:\Stage_India_Rose\fichier_à tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\Stage_India_Rose\fichier_à tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\res\values\strings.xml
+E:\Stage_India_Rose\fichier_à tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\R.cs.flag
+E:\Stage_India_Rose\fichier_à tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\uploadflags.txt
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\bin\Debug\Example_WorkingWithAudio.dll
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\bin\Debug\Example_WorkingWithAudio.pdb
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\bin\Debug\Example_WorkingWithAudio.dll.mdb
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\bin\Debug\Example_WorkingWithAudio.Example_WorkingWithAudio.apk
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\bin\Debug\Example_WorkingWithAudio.Example_WorkingWithAudio-Signed.apk
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\Example_WorkingWithAudio.dll
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\Example_WorkingWithAudio.pdb
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\android\bin\Example_WorkingWithAudio.Example_WorkingWithAudio.apk
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\res\layout\main.xml
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\res\drawable-hdpi\icon.png
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\res\drawable-ldpi\icon.png
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\res\drawable-mdpi\icon.png
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\res\drawable-xhdpi\icon.png
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\res\values\strings.xml
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\R.cs.flag
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\Example_WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\uploadflags.txt
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\WorkingWithAudio\Example_WorkingWithAudio\bin\Debug\Example_WorkingWithAudio.dll
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\WorkingWithAudio\Example_WorkingWithAudio\bin\Debug\Example_WorkingWithAudio.pdb
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\WorkingWithAudio\Example_WorkingWithAudio\bin\Debug\Example_WorkingWithAudio.dll.mdb
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\WorkingWithAudio\Example_WorkingWithAudio\bin\Debug\Example_WorkingWithAudio.Example_WorkingWithAudio.apk
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\WorkingWithAudio\Example_WorkingWithAudio\bin\Debug\Example_WorkingWithAudio.Example_WorkingWithAudio-Signed.apk
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\Example_WorkingWithAudio.dll
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\Example_WorkingWithAudio.pdb
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\android\bin\Example_WorkingWithAudio.Example_WorkingWithAudio.apk
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\res\layout\main.xml
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\res\drawable-hdpi\icon.png
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\res\drawable-ldpi\icon.png
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\res\drawable-mdpi\icon.png
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\res\drawable-xhdpi\icon.png
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\res\values\strings.xml
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\R.cs.flag
+E:\Stage_India_Rose\fichier_a_tester\Sound\Android\WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\uploadflags.txt
+C:\Users\Erwan Durandet\Documents\Projects\WorkingWithAudio\Example_WorkingWithAudio\bin\Debug\Example_WorkingWithAudio.dll
+C:\Users\Erwan Durandet\Documents\Projects\WorkingWithAudio\Example_WorkingWithAudio\bin\Debug\Example_WorkingWithAudio.pdb
+C:\Users\Erwan Durandet\Documents\Projects\WorkingWithAudio\Example_WorkingWithAudio\bin\Debug\Example_WorkingWithAudio.dll.mdb
+C:\Users\Erwan Durandet\Documents\Projects\WorkingWithAudio\Example_WorkingWithAudio\bin\Debug\Example_WorkingWithAudio.Example_WorkingWithAudio.apk
+C:\Users\Erwan Durandet\Documents\Projects\WorkingWithAudio\Example_WorkingWithAudio\bin\Debug\Example_WorkingWithAudio.Example_WorkingWithAudio-Signed.apk
+C:\Users\Erwan Durandet\Documents\Projects\WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\Example_WorkingWithAudio.dll
+C:\Users\Erwan Durandet\Documents\Projects\WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\Example_WorkingWithAudio.pdb
+C:\Users\Erwan Durandet\Documents\Projects\WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\android\bin\Example_WorkingWithAudio.Example_WorkingWithAudio.apk
+C:\Users\Erwan Durandet\Documents\Projects\WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\res\layout\main.xml
+C:\Users\Erwan Durandet\Documents\Projects\WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Erwan Durandet\Documents\Projects\WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\res\drawable-ldpi\icon.png
+C:\Users\Erwan Durandet\Documents\Projects\WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\Erwan Durandet\Documents\Projects\WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Erwan Durandet\Documents\Projects\WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Erwan Durandet\Documents\Projects\WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\res\values\strings.xml
+C:\Users\Erwan Durandet\Documents\Projects\WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\R.cs.flag
+C:\Users\Erwan Durandet\Documents\Projects\WorkingWithAudio\Example_WorkingWithAudio\obj\Debug\uploadflags.txt

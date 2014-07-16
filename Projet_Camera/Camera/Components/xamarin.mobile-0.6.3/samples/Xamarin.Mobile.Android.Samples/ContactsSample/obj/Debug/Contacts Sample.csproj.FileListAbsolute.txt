@@ -1,0 +1,16 @@
+E:\Stage_India_Rose\fichier_a_tester\mobile-sample-master\mobile-samples-master\Camera\Components\xamarin.mobile-0.6.3\samples\Xamarin.Mobile.Android.Samples\ContactsSample\bin\Debug\ContactsSample.dll
+E:\Stage_India_Rose\fichier_a_tester\mobile-sample-master\mobile-samples-master\Camera\Components\xamarin.mobile-0.6.3\samples\Xamarin.Mobile.Android.Samples\ContactsSample\bin\Debug\ContactsSample.pdb
+E:\Stage_India_Rose\fichier_a_tester\mobile-sample-master\mobile-samples-master\Camera\Components\xamarin.mobile-0.6.3\samples\Xamarin.Mobile.Android.Samples\ContactsSample\bin\Debug\ContactsSample.dll.mdb
+E:\Stage_India_Rose\fichier_a_tester\mobile-sample-master\mobile-samples-master\Camera\Components\xamarin.mobile-0.6.3\samples\Xamarin.Mobile.Android.Samples\ContactsSample\bin\Debug\ContactsSample.ContactsSample.apk
+E:\Stage_India_Rose\fichier_a_tester\mobile-sample-master\mobile-samples-master\Camera\Components\xamarin.mobile-0.6.3\samples\Xamarin.Mobile.Android.Samples\ContactsSample\bin\Debug\ContactsSample.ContactsSample-Signed.apk
+E:\Stage_India_Rose\fichier_a_tester\mobile-sample-master\mobile-samples-master\Camera\Components\xamarin.mobile-0.6.3\samples\Xamarin.Mobile.Android.Samples\ContactsSample\bin\Debug\Xamarin.Mobile.dll
+E:\Stage_India_Rose\fichier_a_tester\mobile-sample-master\mobile-samples-master\Camera\Components\xamarin.mobile-0.6.3\samples\Xamarin.Mobile.Android.Samples\ContactsSample\bin\Debug\Xamarin.Mobile.xml
+E:\Stage_India_Rose\fichier_a_tester\mobile-sample-master\mobile-samples-master\Camera\Components\xamarin.mobile-0.6.3\samples\Xamarin.Mobile.Android.Samples\ContactsSample\obj\Debug\ContactsSample.dll
+E:\Stage_India_Rose\fichier_a_tester\mobile-sample-master\mobile-samples-master\Camera\Components\xamarin.mobile-0.6.3\samples\Xamarin.Mobile.Android.Samples\ContactsSample\obj\Debug\ContactsSample.pdb
+E:\Stage_India_Rose\fichier_a_tester\mobile-sample-master\mobile-samples-master\Camera\Components\xamarin.mobile-0.6.3\samples\Xamarin.Mobile.Android.Samples\ContactsSample\obj\Debug\android\bin\ContactsSample.ContactsSample.apk
+E:\Stage_India_Rose\fichier_a_tester\mobile-sample-master\mobile-samples-master\Camera\Components\xamarin.mobile-0.6.3\samples\Xamarin.Mobile.Android.Samples\ContactsSample\obj\Debug\res\layout\list_item.xml
+E:\Stage_India_Rose\fichier_a_tester\mobile-sample-master\mobile-samples-master\Camera\Components\xamarin.mobile-0.6.3\samples\Xamarin.Mobile.Android.Samples\ContactsSample\obj\Debug\res\layout\contact_view.xml
+E:\Stage_India_Rose\fichier_a_tester\mobile-sample-master\mobile-samples-master\Camera\Components\xamarin.mobile-0.6.3\samples\Xamarin.Mobile.Android.Samples\ContactsSample\obj\Debug\res\values\strings.xml
+E:\Stage_India_Rose\fichier_a_tester\mobile-sample-master\mobile-samples-master\Camera\Components\xamarin.mobile-0.6.3\samples\Xamarin.Mobile.Android.Samples\ContactsSample\obj\Debug\res\drawable\icon.png
+E:\Stage_India_Rose\fichier_a_tester\mobile-sample-master\mobile-samples-master\Camera\Components\xamarin.mobile-0.6.3\samples\Xamarin.Mobile.Android.Samples\ContactsSample\obj\Debug\R.cs.flag
+E:\Stage_India_Rose\fichier_a_tester\mobile-sample-master\mobile-samples-master\Camera\Components\xamarin.mobile-0.6.3\samples\Xamarin.Mobile.Android.Samples\ContactsSample\obj\Debug\uploadflags.txt

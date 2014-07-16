@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.015d24bc5c1bfc11" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Example_WorkingWithAudio\Activity1.cs">
+    <Files>
+      <File FileName="Example_WorkingWithAudio\Activity1.cs" Line="84" Column="20" />
+      <File FileName="Example_WorkingWithAudio\Resources\Values\Strings.xml" Line="6" Column="5" />
+      <File FileName="Example_WorkingWithAudio\Resources\Resource.Designer.cs" Line="137" Column="1" />
+      <File FileName="Example_WorkingWithAudio\Properties\AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="Example_WorkingWithAudio\Properties\AssemblyInfo.cs" Line="13" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WorkingWithAudio MonoForAntroid.PreferredDevice="Galaxy Nexus" />
+</Properties>

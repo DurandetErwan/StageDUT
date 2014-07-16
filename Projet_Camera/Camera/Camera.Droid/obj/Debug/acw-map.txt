@@ -1,0 +1,5 @@
+Camera.Droid.MainActivity;camera.droid.MainActivity
+Xamarin.AsyncQuery`1;xamarin.AsyncQuery_1
+Xamarin.Geolocation.GeolocationContinuousListener;xamarin.geolocation.GeolocationContinuousListener
+Xamarin.Geolocation.GeolocationSingleListener;xamarin.geolocation.GeolocationSingleListener
+Xamarin.Media.MediaPickerActivity;xamarin.media.MediaPickerActivity

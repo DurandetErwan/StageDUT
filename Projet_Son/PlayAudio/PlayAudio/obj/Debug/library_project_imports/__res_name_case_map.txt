@@ -1,0 +1,4 @@
+layout/Main.axml;layout/main.xml
+values/Strings.xml;values/strings.xml
+drawable/Icon.png;drawable/icon.png
+raw/test.mp3;raw/test.mp3
